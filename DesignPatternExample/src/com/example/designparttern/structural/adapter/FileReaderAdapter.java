@@ -1,6 +1,10 @@
-package com.example.designparttern.structural.adapter.advance;
+package com.example.designparttern.structural.adapter;
 
 import com.example.designparttern.structural.adapter.FileReader;
+import com.example.designparttern.structural.adapter.advance.AdvanceFileReader;
+import com.example.designparttern.structural.adapter.advance.DocReader;
+import com.example.designparttern.structural.adapter.advance.Format;
+import com.example.designparttern.structural.adapter.advance.PdfReader;
 
 /**
  * This stupid code is created by thantieuhodo on 10/9/15.

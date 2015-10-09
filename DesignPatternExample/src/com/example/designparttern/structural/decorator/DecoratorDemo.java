@@ -35,7 +35,6 @@ public class DecoratorDemo {
 
 
 
-
         // other: if we want to draw Bound of shape, we can create class ShapeVsBoundDecorator to do it.
     }
 }

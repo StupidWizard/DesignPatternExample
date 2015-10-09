@@ -1,6 +1,5 @@
 package com.example.designparttern.structural.adapter;
 
-import com.example.designparttern.structural.adapter.advance.FileReaderAdapter;
 import com.example.designparttern.structural.adapter.advance.Format;
 
 /**
